@@ -20,6 +20,6 @@ The question this analysis answers is not how much Nigeria is spending, it is wh
 4. The Big Questions: Do we masses benefit from this budget?
 
 ## Detailed Analysis & Recommendations
-For in-depth analysis and business recommendations,[Read the full article on Medium]()
+For in-depth analysis[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDliNjMwNjAtZjJhMS00ZGU5LTgzMzEtZWIzNDBlZTRiY2VlIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9)
 
 
