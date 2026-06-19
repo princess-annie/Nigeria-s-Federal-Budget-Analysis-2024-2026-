@@ -20,7 +20,7 @@ The question this analysis answers is not how much Nigeria is spending, it is wh
 4. The Big Questions: Do we masses benefit from this budget?
 
 ## Detailed Analysis & Recommendations
-For in-depth analysis[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDliNjMwNjAtZjJhMS00ZGU5LTgzMzEtZWIzNDBlZTRiY2VlIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9) ||
+For in-depth analysis[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDliNjMwNjAtZjJhMS00ZGU5LTgzMzEtZWIzNDBlZTRiY2VlIiwidCI6ImMwZmMxNTU3LTEzMzktNDZkZC05MDk1LWExZjM0ZDdiZmI3ZiJ9) |
 [Read the full article on Medium](https://princessjames563.medium.com/nigerias-2026-federal-budget-is-51-6-eb37f827cbc8)
 
 
